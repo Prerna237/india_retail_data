@@ -1,6 +1,11 @@
 # Retail Prices of Key Commodities in India
 Considering that the dataset contains the prices of various commodities from the year 1997 to 2015.
 
+## Code
+A Kaggle kernel was used for the development to skip over the installation processes as well as overcome hardware capability restrictions.
+The link to the kernel:
+https://www.kaggle.com/prerna237/india-retail-eda
+
 ## Preliminary Observations
 These are some observations about the various columns in the dataset:
 * **Date** : The date values were at a 'day' level granularity meaning (DD/MM/YYYY).
